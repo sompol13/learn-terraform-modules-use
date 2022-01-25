@@ -1,0 +1,5 @@
+# Use Modules from the Registry
+In this tutorial, you will use modules from the Terraform Registry to provision an example environment on AWS.
+
+### Reference
+https://learn.hashicorp.com/tutorials/terraform/module-use?in=terraform/modules
